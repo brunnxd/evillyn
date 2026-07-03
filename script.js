@@ -1,0 +1,1 @@
+const s=new Date('2026-03-20');const d=Math.floor((Date.now()-s)/86400000);document.getElementById('counter').textContent='❤️ Juntos há '+d+' dias';
